@@ -2,5 +2,5 @@
 
 <div id="header" align="center">
   <h2>Dépôt GitHub pour les développements de Vital Roy Arpenteurs-Géomètres, y compris le contenu tel que la documentation, les scripts et les tutoriels.</h2><br>
-    <img src="https://www.jobillico.com/medias/exponent-banner/en/0/0/26403.jpg?1706284350" width="500/><br>
+    <img src="https://arpenteurs.ca/wp-content/uploads/2019/05/2-1-1024x768.jpg" width="500/><br>
 </div>
