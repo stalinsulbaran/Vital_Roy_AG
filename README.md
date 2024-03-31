@@ -2,5 +2,5 @@
 
 <div id="header" align="center">
   <h2>Repositorio GitHub para desarrollos y productos de ESRI, incluyendo contenido como documentación, presentaciones, scripts y tutoriales de las aplicaciones de ArcGIS.</h2><br>
-    <img src="https://www.esri.com/content/dam/esrisites/en-us/digital-twin/assets/digital-twin-banner-foreground.png" width="500"/><br>
+    <img src="https://www.jobillico.com/medias/exponent-banner/en/0/0/26403.jpg?1706284350" width="500"/><br>
 </div>
